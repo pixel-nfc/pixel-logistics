@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Pixel Logistics - Comprehensive Logistics Solutions in Riyadh",
+      "description": "Leading logistics company offering freight, warehousing, and distribution solutions in Saudi Arabia"
+    },
+    "privacy": {
+      "title": "Privacy Policy | Pixel Logistics",
+      "description": "Privacy policy and data protection for Pixel Logistics"
+    },
+    "terms": {
+      "title": "Terms of Use | Pixel Logistics",
+      "description": "Terms and conditions for using Pixel Logistics services"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  },
+  "hero": {
+    "title": "Comprehensive Logistics Solutions",
+    "subtitle": "Connecting your business to the world with reliable and efficient logistics services",
+    "cta": {
+      "primary": "Get a Quote",
+      "secondary": "Explore Services"
+    }
+  },
+  "services": {
+    "title": "Our Logistics Services",
+    "subtitle": "Complete solutions for all your logistics needs",
+    "freight": {
+      "title": "International Freight",
+      "description": "Air, sea, and land freight services to global destinations at competitive rates"
+    },
+    "warehousing": {
+      "title": "Warehousing & Management",
+      "description": "Modern warehouses with advanced management systems for secure storage"
+    },
+    "distribution": {
+      "title": "Local Distribution",
+      "description": "Extensive distribution network covering all regions of Saudi Arabia"
+    },
+    "customs": {
+      "title": "Customs Clearance",
+      "description": "Fast and compliant customs clearance services"
+    },
+    "ecommerce": {
+      "title": "E-commerce Solutions",
+      "description": "Specialized logistics services for e-commerce businesses"
+    },
+    "tracking": {
+      "title": "Tracking & Monitoring",
+      "description": "Advanced tracking system to monitor your shipments in real-time"
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose Pixel Logistics?",
+    "subtitle": "Your trusted partner in the world of logistics",
+    "experience": {
+      "title": "Extensive Experience",
+      "description": "Years of experience delivering exceptional logistics solutions"
+    },
+    "technology": {
+      "title": "Advanced Technology",
+      "description": "Latest systems for efficient shipment management and tracking"
+    },
+    "coverage": {
+      "title": "Wide Coverage",
+      "description": "Global and local network ensuring your shipments reach any destination"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Dedicated team ready to assist you anytime"
+    }
+  },
+  "stats": {
+    "clients": {
+      "value": "500+",
+      "label": "Satisfied Clients"
+    },
+    "shipments": {
+      "value": "10,000+",
+      "label": "Monthly Shipments"
+    },
+    "countries": {
+      "value": "50+",
+      "label": "Countries Served"
+    },
+    "satisfaction": {
+      "value": "98%",
+      "label": "Satisfaction Rate"
+    }
+  },
+  "cta": {
+    "title": "Ready to Start a Successful Partnership?",
+    "description": "Contact us today and get a free consultation for your logistics needs",
+    "button": "Contact Us Now"
+  },
+  "footer": {
+    "company": {
+      "title": "About Company",
+      "description": "Pixel Logistics - Leading provider of comprehensive logistics solutions in Saudi Arabia"
+    },
+    "quickLinks": {
+      "title": "Quick Links"
+    },
+    "contact": {
+      "title": "Contact Information",
+      "address": "Riyadh, Saudi Arabia",
+      "phone": "+966 XX XXX XXXX",
+      "email": "info@pixel-logistics.com"
+    },
+    "legal": {
+      "title": "Legal"
+    },
+    "copyright": "© 2025 Pixel Logistics. All rights reserved."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: January 2025",
+    "intro": "At Pixel Logistics, we respect your privacy and are committed to protecting your personal data. This policy explains how we collect, use, and protect your information.",
+    "sections": {
+      "collection": {
+        "title": "Information Collection",
+        "content": "We collect information that you provide to us directly when using our services, including name, contact information, and shipping details. We use this information to provide our logistics services efficiently and improve your experience with us."
+      },
+      "usage": {
+        "title": "Information Usage",
+        "content": "We use the information we collect to provide and improve our services, process your requests, communicate with you about our services, and enhance the security of our platform. We will not share your personal information with third parties except with your consent or as required by law."
+      },
+      "security": {
+        "title": "Data Security",
+        "content": "We take appropriate security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. We use SSL encryption and advanced security systems to protect your data. However, no data transmission over the Internet can be guaranteed to be 100% secure."
+      },
+      "rights": {
+        "title": "Your Rights",
+        "content": "You have the right to access, correct, or delete your personal information. You may also object to the processing of your data or request its restriction. To exercise any of these rights, please contact us at the email address listed below."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "We use cookies and similar technologies to improve your experience on our website, analyze traffic, and personalize content. You can control the use of cookies through your browser settings."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "If you have any questions about this privacy policy or our data practices, please contact us at: info@pixel-logistics.com"
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last Updated: January 2025",
+    "intro": "Welcome to Pixel Logistics. By using our services, you agree to these terms and conditions. Please read them carefully before using our services.",
+    "sections": {
+      "services": {
+        "title": "Services",
+        "content": "We provide comprehensive logistics services including international freight, warehousing, local distribution, customs clearance, and e-commerce solutions. We reserve the right to modify or discontinue any of our services at any time without prior notice."
+      },
+      "responsibilities": {
+        "title": "Your Responsibilities",
+        "content": "You are responsible for providing accurate and complete information about your shipments, including content, value, and destination. You must comply with all local and international laws and regulations regarding shipping and customs. You are responsible for ensuring that all shipped goods are legal and do not violate any intellectual property rights."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "content": "Our liability is subject to applicable laws and regulations in Saudi Arabia. We are not responsible for any indirect, incidental, or consequential damages arising from the use of our services. Our maximum liability is limited to the value of the service provided or the agreed insurance amount, whichever is lower."
+      },
+      "insurance": {
+        "title": "Insurance",
+        "content": "We strongly recommend insurance for all shipments. We can arrange insurance on your behalf for an additional fee. In the absence of insurance, our liability is limited according to the carrier's standard terms."
+      },
+      "payment": {
+        "title": "Payment",
+        "content": "All fees and charges must be paid on time according to the invoice terms. We reserve the right to hold shipments until full payment is received. Late payment fees may apply to overdue payments."
+      },
+      "disputes": {
+        "title": "Dispute Resolution",
+        "content": "These terms are governed by the laws of Saudi Arabia. Any disputes arising from these terms or our services will be resolved through arbitration in Riyadh in accordance with the applicable arbitration rules in the Kingdom."
+      },
+      "changes": {
+        "title": "Amendments",
+        "content": "We reserve the right to modify these terms at any time. We will post any changes on this page and update the 'Last Updated' date. Your continued use of our services after any amendments means you accept the modified terms."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "For any questions about these terms, please contact us at: info@pixel-logistics.com"
+      }
+    }
+  }
+}
