@@ -12,6 +12,7 @@ import {
 } from '@/components/ui/sheet';
 import { Menu, Package } from 'lucide-react';
 import LanguageSwitcher from './LanguageSwitcher';
+import ThemeToggle from './ThemeToggle';
 
 export default function Header() {
   const t = useTranslations('nav');
@@ -46,8 +47,9 @@ export default function Header() {
           ))}
         </nav>
 
-        {/* Desktop Language Switcher */}
+        {/* Desktop Actions */}
         <div className="hidden md:flex items-center gap-4">
+          <ThemeToggle />
           <LanguageSwitcher />
           <Button asChild>
             <Link href="/#contact">{t('contact')}</Link>
@@ -56,6 +58,7 @@ export default function Header() {
 
         {/* Mobile Menu */}
         <div className="flex md:hidden items-center gap-2">
+          <ThemeToggle />
           <LanguageSwitcher />
           <Sheet open={isOpen} onOpenChange={setIsOpen}>
             <SheetTrigger asChild>

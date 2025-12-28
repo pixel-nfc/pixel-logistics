@@ -188,5 +188,11 @@
         "content": "For any questions about these terms, please contact us at: info@pixelogistics.com"
       }
     }
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "toggle": "Toggle theme"
   }
 }

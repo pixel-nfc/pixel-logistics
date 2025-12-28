@@ -4,6 +4,7 @@ import { getMessages, getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { Inter, Cairo } from 'next/font/google';
 import { locales, localeDirections } from '@/i18n/config';
+import { ThemeProvider } from '@/components/providers/ThemeProvider';
 import "../globals.css";
 
 const inter = Inter({
@@ -58,9 +59,16 @@ export default async function RootLayout({
   return (
     <html lang={locale} dir={direction} suppressHydrationWarning>
       <body className={`${inter.variable} ${cairo.variable} ${locale === 'ar' ? 'font-arabic' : 'font-sans'} antialiased`}>
-        <NextIntlClientProvider messages={messages}>
-          {children}
-        </NextIntlClientProvider>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange
+        >
+          <NextIntlClientProvider messages={messages}>
+            {children}
+          </NextIntlClientProvider>
+        </ThemeProvider>
       </body>
     </html>
   );
