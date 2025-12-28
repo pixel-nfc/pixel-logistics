@@ -15,7 +15,7 @@ export default function CTASection() {
             {t('description')}
           </p>
           <Button asChild size="lg" variant="secondary" className="gap-2">
-            <Link href="mailto:info@pixel-logistics.com">
+            <Link href="mailto:info@pixelogistics.com">
               {t('button')}
               <ArrowRight className="h-4 w-4" />
             </Link>
