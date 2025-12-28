@@ -9,6 +9,6 @@ export const localeNames: Record<Locale, string> = {
 };
 
 export const localeDirections: Record<Locale, 'rtl' | 'ltr'> = {
-  ar: 'rtl',
+  ar: 'ltr',
   en: 'ltr',
 };
