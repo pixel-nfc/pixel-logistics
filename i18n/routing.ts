@@ -9,7 +9,10 @@ export const routing = defineRouting({
   defaultLocale: 'ar',
 
   // Always use locale prefix
-  localePrefix: 'always'
+  localePrefix: 'always',
+
+  // Disable automatic locale detection to always redirect to Arabic
+  localeDetection: false
 });
 
 // Lightweight wrappers around Next.js' navigation APIs
